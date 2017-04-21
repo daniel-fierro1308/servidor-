@@ -1,0 +1,25 @@
+{
+  "name": "servidor",
+  "version": "1.0.0",
+  "description": "servidor express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "serv",
+    "node"
+  ],
+  "author": "Daniel Fierro",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cloudinary": "^1.2.1",
+    "express": "^4.14.0",
+    "jade": "^1.11.0",
+    "method-override": "^2.3.7",
+    "mongoose": "^4.7.5",
+    "multer": "^0.1.8",
+    "socket.io": "^1.7.2"
+  }
+}
